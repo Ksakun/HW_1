@@ -104,3 +104,4 @@ int hw1_calculator_process_data( hw1_calculator_t *calculator, int data){
 	}
 
 }
+

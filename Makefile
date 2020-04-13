@@ -18,3 +18,4 @@ hw1_calculator.o: hw1_calculator.c hw1_calculator.h
 clean:
 	rm -rf hw1_main.o hw1_error.o hw1_manager.o hw1_calculator.o
 	rm -rf hw1_main
+
