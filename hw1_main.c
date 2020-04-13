@@ -1,5 +1,11 @@
 #include "hw1_manager.h"
 
+/**
+ * @brief: get input data / save data in db / check data
+ * @param: int argc
+ * @param: char** argv
+ */
+
 int main(int argc, char **argv){
 	if( argc != 2){
 		printf("\n(hw1_main) { Wrong Parameter Rule }\n\n");
